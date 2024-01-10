@@ -1,0 +1,4 @@
+this directory stores the file which created for learning aarch64 assembly
+language runing in the equipment that is my redmi smart phone. During this
+period, I will use x86 architecture computer to produce arm mechine code, so
+cross platform compiler is used(x86_64-aarch64-none-linux-gnu).
